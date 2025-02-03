@@ -6,7 +6,7 @@ import json
 # Database connection configuration
 config = {
     'user': 'root',
-    'password': 'mcks0963',
+    'password': 'my_password',
     'host': 'localhost',
     'database': 'orders',
     'raise_on_warnings': True
